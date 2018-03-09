@@ -1,0 +1,28 @@
+word;ipa;parameter;description;alternative;comment;translation;glottocode;notes
+komgamgoy;;3p-p;3rd Person Plural;;;;zyud1238;
+komgay;;3p-o;3rd Person Plural;;;;zyud1238;
+non;;3p-s;3rd Person Plural;;;;zyud1238;
+neɲ kondamin amgoy;;3d-p;3rd Person Dual;;;;zyud1238;
+kondaminɟay;;3d-o;3rd Person Dual;;;;zyud1238;
+neɲ kondamin;;3d-s;3rd Person Dual;;;;zyud1238;
+anamgoy;;3sg_m_p;3rd Person Singular Masculine;;;;zyud1238;
+alay;;3sg_m_o;3rd Person Singular Masculine;;;;zyud1238;
+an;;3sg_m_s;3rd Person Singular Masculine;;;;zyud1238;
+nuŋgumgoy;;2pl_p;2nd Person Plural;;;;zyud1238;
+noŋgay;;2pl_o;2nd Person Plural;;;;zyud1238;
+noŋ;;2pl_s;2nd Person Plural;;;;zyud1238;
+nuŋgumgoy;;2du_p;2nd Person Dual;;;;zyud1238;
+neɲ kondamiɲanda;;2du_o;2nd Person Dual;;;;zyud1238;
+neɲ kondamin;;2du_s;2nd Person Dual;;;;zyud1238;
+nan(gum)goy;;2sg_p;2nd Person Singular;;;;zyud1238;
+nanday;;2sg_o;2nd Person Singular;;;;zyud1238;
+nan;;2sg_s;2nd Person Singular;;;;zyud1238;
+aŋgumgoy;;1pl_p;1st (excl) Person Plural;;;;zyud1238;
+aŋgay;;1pl_o;1st (excl) Person Plural;;;;zyud1238;
+aŋ;;1pl_s;1st (excl) Person Plural;;;;zyud1238;
+asumgoy;;1du_p;1st (excl) Person Dual;;;;zyud1238;
+asumgay (kondamin);;1du_o;1st (excl) Person Dual;;;;zyud1238;
+aŋ;;1du_s;1st (excl) Person Dual;;;;zyud1238;
+tuŋ(gum)goy;;1sg_p;1st (excl) Person Singular;;-gum- in brackets optional, often left out;;zyud1238;
+tay;;1sg_o;1st (excl) Person Singular;;;;zyud1238;
+niŋ;;1sg_s;1st (excl) Person Singular;;;;zyud1238;
